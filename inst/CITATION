@@ -1,0 +1,16 @@
+citHeader("To cite feols.asv in publications use:")
+
+bibentry(bibtype = "Article",
+         title        = "Quantifying Spatial and Environmental Effects in Spatial Autoregressive Model with the spatialreg.hp R package.",
+         author       = as.person("Jiangshan Lai [aut],Yan He[aut],Mi Hou [aut],Guochun Shen [aut],WenYong Guo [aut],Lingfeng Mao [aut]"),
+         journal      = "Journal of Plant Ecology",
+		  volume       = "19(2):rtaf220",
+         year         = "2026",
+         url          = "https://doi.org/10.1093/jpe/rtaf220",
+
+         textVersion  =
+           paste("Jiangshan Lai, Yan He,Mi Hou,Guochun Shen,WenYong Guo,Lingfeng Mao(2026).",
+                 "Quantifying Spatial and Environmental Effects in Spatial Autoregressive Model with the spatialreg.hp R package.",
+                 "Journal of Plant Ecology,19(2):rtaf220",
+                 "URL https://doi.org/10.1093/jpe/rtaf220")
+)
